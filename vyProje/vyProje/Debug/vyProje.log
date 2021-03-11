@@ -1,0 +1,8 @@
+﻿  vyProje.cpp
+C:\Users\AliBiLGiHAN\source\repos\vyProje\vyProje\vyProje.cpp(29,20): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\AliBiLGiHAN\source\repos\vyProje\vyProje\vyProje.cpp(86,11): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\AliBiLGiHAN\source\repos\vyProje\vyProje\vyProje.cpp(92,47): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\AliBiLGiHAN\source\repos\vyProje\vyProje\vyProje.cpp(205,49): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\AliBiLGiHAN\source\repos\vyProje\vyProje\vyProje.cpp(305,49): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\AliBiLGiHAN\source\repos\vyProje\vyProje\vyProje.cpp(157): warning C4715: 'Minimum': tüm denetim yolları değer döndürmez
+  vyProje.vcxproj -> C:\Users\AliBiLGiHAN\source\repos\vyProje\Debug\vyProje.exe
